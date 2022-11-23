@@ -5,7 +5,7 @@ public class Div extends Operation{
     private int a;
     private int b;
 
-    @Override
+
     public int resultat() {
         return this.a/this.b;
     }

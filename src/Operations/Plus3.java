@@ -9,7 +9,6 @@ public class Plus3 extends Operation {
         this.c = c;
     }
 
-    @Override
     public int resultat(){
         return (this.a+this.b+this.c);
     }

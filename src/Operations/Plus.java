@@ -9,7 +9,7 @@ public class Plus extends Operation {
         this.b = b;
     }
 
-    @Override
+
     public int resultat(){
         return this.a+this.b;
     }
